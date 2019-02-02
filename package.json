@@ -1,0 +1,23 @@
+{
+  "name": "lightxcpclient",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John \"Chiguireitor\" Villar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "bcoin": "^1.0.2",
+    "bignumber.js": "^8.0.2",
+    "dotenv": "^6.2.0",
+    "jayson": "^2.1.1",
+    "sqlite": "^3.0.1",
+    "webtorrent": "^0.103.0"
+  }
+}
