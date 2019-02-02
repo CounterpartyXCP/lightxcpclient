@@ -15,7 +15,7 @@ npm install
 cp .env-example .env
 ```
 
-To run, simple issue a `npm run dev`
+To run, simply issue a `npm run dev`
 
 ## License
 
